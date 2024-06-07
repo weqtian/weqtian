@@ -6,11 +6,11 @@
           <picture>
             <source
               media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats.tlyboy.dev/api?username=weqtian&title_color=3498db&text_color=ecf0f1&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true"
+              srcset="https://qingyu-github-readme-stats.vercel.app/api?username=weqtian&title_color=3498db&text_color=ecf0f1&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true"
             />
             <img
               align="center"
-              src="https://github-readme-stats.tlyboy.dev/api?username=weqtian&title_color=3498db&text_color=121212&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true"
+              src="https://qingyu-github-readme-stats.vercel.app/api?username=weqtian&title_color=3498db&text_color=121212&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true"
               alt="晴天's github stats"
             />
           </picture>
